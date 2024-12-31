@@ -1,0 +1,9 @@
+dbt-core
+dbt-postgres
+scrapy
+python-bidi
+arabic-reshaper
+feedparser
+python-dotenv
+SQLAlchemy
+psycopg2-binary
